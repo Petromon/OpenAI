@@ -1,0 +1,11 @@
+urllib
+requests
+bs4
+re
+numpy
+tensorflow_hub
+openai
+gradio
+sklearn
+tensorflow
+pypdf
